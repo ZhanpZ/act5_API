@@ -1,0 +1,5 @@
+C:\Users\zengm\Desktop\Pokemon\WebAPIClient\obj\Debug\net7.0\WebAPIClient.csproj.AssemblyReference.cache
+C:\Users\zengm\Desktop\Pokemon\WebAPIClient\obj\Debug\net7.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zengm\Desktop\Pokemon\WebAPIClient\obj\Debug\net7.0\WebAPIClient.AssemblyInfoInputs.cache
+C:\Users\zengm\Desktop\Pokemon\WebAPIClient\obj\Debug\net7.0\WebAPIClient.AssemblyInfo.cs
+C:\Users\zengm\Desktop\Pokemon\WebAPIClient\obj\Debug\net7.0\WebAPIClient.csproj.CoreCompileInputs.cache

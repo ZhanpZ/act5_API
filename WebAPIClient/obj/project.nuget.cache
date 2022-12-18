@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8vKZTfN16wgo0pMG7B2yM9Kq9ZMLFvdDEWJE0+Kl9Se4lAoqbFjO+HDx1MlfgI6BeUBw5sxeH5EwutiryqrHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zengm\\Desktop\\Pokemon\\WebAPIClient\\WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zengm\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
